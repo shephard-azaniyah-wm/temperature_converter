@@ -14,6 +14,6 @@ var celsius = 0;
 var kelvin = 273.15;
 
 console.log("Fahrenheit" + fahrenheitToCelsius);
-console.log("Celsius: " + celsiusToFahrenheit);
-console.log("Kelvin: " + kelvinToFahrenheit);
+console.log("celsius: " + celsiusToFahrenheit);
+console.log("kelvin: " + kelvinToFahrenheit);
 console.log("Fahrenheit:" + fahrenheitToKelvin)
